@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Vehiculos">
+    <output-path>$PROJECT_DIR$/out/artifacts/Vehiculos</output-path>
+    <root id="archive" name="Vehiculos.jar">
+      <element id="module-output" name="EJClase3" />
+    </root>
+  </artifact>
+</component>
